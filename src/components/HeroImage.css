@@ -2,7 +2,7 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
                       url("../assets/hero_image.jpg");
     min-height: 80vh;
-    background-position: center top;
+    background-position: center top left;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
