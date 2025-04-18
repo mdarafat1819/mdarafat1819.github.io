@@ -1,3 +1,4 @@
+import HeroImage from './components/HeroImage'
 import NavBar from './components/NavBar'
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
       <NavBar />
+      <HeroImage />
     </>
   )
 }
